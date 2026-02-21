@@ -1,0 +1,13 @@
+# backend build
+notesapp/backend/target/
+
+# frontend
+notesapp/frontend/node_modules/
+notesapp/frontend/dist/
+
+# IDE
+.vscode
+.idea
+
+# env
+.env
